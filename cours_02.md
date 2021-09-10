@@ -10,7 +10,7 @@ J'ai choisi ce lien, car ce site est ma source d'inspiration de tous les jours. 
 ### Lien 2 
 Expliquer pourquoi vous avez choisi ce lien.
 https://lareclame.fr/tendances-graphiques-2021-242272 
-J'ai choisi ce lien, car il m'inspire beaucoup présentement pour mon projet de Moodboard dans le cours d'illustration. En effet, le site évoque plusieurs tendances artistiques autant pour le web que la peinture. De plus, le site contient pleins d'articles sur le multimédia ansi que des offres d'emploi.
+J'ai choisi ce lien, car il m'inspire beaucoup présentement pour mon projet de Moodboard dans le cours d'illustration. En effet, le site évoque plusieurs tendances artistiques autant pour le web que la peinture. De plus, le site contient pleins d'articles sur le multimédia ainsi que des offres d'emploi.
 
 ### Lien 3 
 Expliquer pourquoi vous avez choisi ce lien.  https://www.behance.net/galleries?tracking_source=nav20
