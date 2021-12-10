@@ -22,9 +22,10 @@ https://github.com/lauriehoude/Laurie_Houde_Journaldebord/blob/main/images/2021-
 https://github.com/lauriehoude/Laurie_Houde_Journaldebord/blob/main/images/2021-12-10%2010_03_48-G%C3%A9n%C3%A9ral%20(A21_582115MO-04%20Domaines%20du%20multim%C3%A9dia)%20_%20Microsoft%20Teams.png
 ### Moodboard
 Montrer nous l'allure visuelle et sonore qu'aura votre projet à l'aide d'un moodboard, de maquettes ou de croquis. 
-
+https://github.com/lauriehoude/Laurie_Houde_Journaldebord/blob/main/images/.gitkeep
 ### Technologies
 Décrivez quelles seront les technologies utilisées dans votre projet. 
-
+mapping vidéo
 ### Étapes de réalisation
 Quelles sont les étapes nécessaires à la réalisation de votre projet? Essayez de placer ces étapes dans un échéancier. 
+Directeur artistique,charger de projets, concepteur sonore, concepteur visuel,programmeur, responsable de décor,machiniste, script, producteur, artiste VFX, ingénieur, animateur
